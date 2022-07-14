@@ -1,5 +1,5 @@
 //https://youtu.be/EJrgn7tvJ4o
-//
+//https://youtu.be/VkCt1SxnZ6c
 //variables
 boolean ganar= false;
 boolean gameOver = true;
